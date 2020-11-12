@@ -1,4 +1,4 @@
-package asta;
+package Asta;
 
 public class Task001 {
 }
